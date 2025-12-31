@@ -1,0 +1,1 @@
+# mirrored-right-angled-triangle
